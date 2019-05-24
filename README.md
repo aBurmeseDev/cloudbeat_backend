@@ -24,4 +24,4 @@ CloudBeat is a music app powered by Spotify Web API
   - Trello
   
   ### Getting Started
-  [Check out the site here]
+  [Check out the site here](https://cloudbeat.herokuapp.com/)
