@@ -25,3 +25,10 @@ CloudBeat is a music app powered by Spotify Web API
   
   ### Getting Started
   [Check out the site here](https://cloudbeat.herokuapp.com/)
+
+### Author 
+**John Lwin** - [see other works](https://www.johnlwin.info)
+
+### License
+
+This project is licensed under the MIT License
