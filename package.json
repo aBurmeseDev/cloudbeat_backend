@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "express": "^4.17.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "lodash.template": "^4.5.0",
     "mongoose": "^5.7.5",
     "node-spotify-api": "^1.1.1",
